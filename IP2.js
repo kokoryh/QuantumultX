@@ -12,4 +12,4 @@ var ip = obj['query'];
 var description = toString(obj);
 
 
-$done({title, subtitle, ip, description});
+$done({title, subtitle, ip, obj});
