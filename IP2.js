@@ -9,7 +9,7 @@ var obj = JSON.parse(body);
 var title = flags.get(obj['countryCode']) + ' ' + obj['tag'];
 var subtitle = obj['isp'];
 var ip = obj['query'];
-var description = toString(obj);
+var description = obj;
 
 
 $done({title, subtitle, ip, obj});
