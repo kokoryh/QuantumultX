@@ -29,6 +29,6 @@
         "7 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.js, tag=10086签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/10086.png, enabled=false",
         "7 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/meituan/meituan.js, tag=美团签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/meituan.png, enabled=false",
         "10 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/sfexpress/sfexpress.js, tag=顺丰签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/sfexpress.png, enabled=false",
-        "3 1 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/elem/elemSign.js, tag=饿了么, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/elem.png, enabled=false"
+        "3 1 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/elem/elemSign.js, tag=饿了么, img-url=https://raw.githubusercontent.com/kokoryh/QuantumultX/master/images/elem.png, enabled=false"
     ]
 }
